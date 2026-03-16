@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-speaksmart-dev-62a30-authRole",
+      "UnauthRoleArn": "arn:aws:iam::216938126055:role/amplify-speaksmart-dev-62a30-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::216938126055:role/amplify-speaksmart-dev-62a30-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-speaksmart-dev-62a30-deployment",
+      "UnauthRoleName": "amplify-speaksmart-dev-62a30-unauthRole",
+      "StackName": "amplify-speaksmart-dev-62a30",
+      "StackId": "arn:aws:cloudformation:us-east-1:216938126055:stack/amplify-speaksmart-dev-62a30/d114b530-1d15-11f1-8a94-0affc8a7d521",
+      "AmplifyAppId": "d34w8smjdxtrym"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
